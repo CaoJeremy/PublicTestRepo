@@ -1,4 +1,3 @@
-@Library(['piper-lib', 'piper-lib-os']) _
 node() {
   stage('stage 1') {
     print('this is stage 1 from pipeline from SCM')
